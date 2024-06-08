@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="Anatomy-of-Sk.png" alt="SK anatomy" width="800" />
+  <img src="pic/Anatomy-of-Sk.png" alt="SK anatomy" width="800" />
   <br>
   <em>Figure 1: Anatomy of Skyrmions andWinding numbers. (a) Neel type skyrmion. Cross section
 along any radial direction is a CCW Neel domain wall. (b) Bloch skyrmion. Cross section along
@@ -30,7 +30,7 @@ spins, depending on the skyrmions.</em>
 </p>
 
 <p align="center">
-  <img src="topology.png" alt="topology" width="600" />
+  <img src="pic/topology.png" alt="topology" width="600" />
   <br>
   <em>Figure 2: Non trivial topology. (a) Bowline knot, simple example of a non trivial topology. (b)
 Stereographic mapping of the Neel type skyrmion onto a 2-Sphere S2.</em>
